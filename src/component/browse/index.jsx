@@ -28,7 +28,7 @@ const Browse = () => {
           marginBottom: "3%",
         }}
       >
-        Browse by property type
+        Browse by property type.
       </Typography>
       <Box
         sx={{
